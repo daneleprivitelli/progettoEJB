@@ -1,0 +1,49 @@
+package Beans;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+import model.session.Docente;
+import service.DocenteService;
+
+/**
+ * Session Bean implementation class SessionBean
+ */
+@Stateless
+@LocalBean
+public class SessionBean implements SessionBeanRemote, SessionBeanLocal {
+
+    /**
+     * Default constructor. 
+     */
+	
+	
+	
+    public SessionBean() {
+        
+    }
+    
+    public Docente creoDocente(Integer iddocente, string nome, string cognome, Integer punteggio ) {
+    	Docente d= new Docente();
+    	
+    	d.setId(iddocente);
+    	d.setNome(nome);;
+    	d.setCognome(cognome);
+    	d.setPunteggio(punteggio);
+    	
+    	
+    	//salva sul db
+    	DocenteService.insertDocente();
+    	
+    	return d;
+    	
+    	
+    }
+    
+    
+    
+    public String InsertDocente() {
+		return null;
+    	
+    }
+}

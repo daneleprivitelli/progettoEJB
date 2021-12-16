@@ -1,0 +1,14 @@
+package model.session;
+
+public class Discente {
+	
+	Integer iddiscente;
+	
+	String nomediscente;
+	
+	String cognomediscente;
+	
+	Integer matricola;
+
+
+}

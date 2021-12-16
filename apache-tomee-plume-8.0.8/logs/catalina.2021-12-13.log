@@ -1,0 +1,89 @@
+13-Dec-2021 11:15:57.760 INFORMAZIONI [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider specified by jar:file:/C:/Users/danyp/OneDrive/Desktop/progettoJavaEE/apache-tomee-plume-8.0.8/lib/openejb-core-eclipselink-8.0.8.jar!/META-INF/org.apache.openejb.persistence.PersistenceBootstrap.provider
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.52 (8.0.8)
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Jul 31 2021 04:12:17 UTC
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.52.0
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_181\jre
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_181-b13
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:57.907 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\conf\logging.properties
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\lib\openejb-javaagent.jar
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dignore.endorsed.dirs=
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:57.908 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\temp
+13-Dec-2021 11:15:57.912 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\danyp\product\21c\dbhomeXE\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\;D:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Maven\apache-maven-3.8.3\bin;C:\Users\danyp\AppData\Local\Microsoft\WindowsApps;C:\Users\danyp\AppData\Roaming\npm;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3\bin;;C:\Users\danyp\AppData\Local\Programs\Microsoft VS Code\bin;.]
+13-Dec-2021 11:15:58.160 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+13-Dec-2021 11:15:58.331 INFORMAZIONI [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Mon Dec 13 11:15:58 CET 2021
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2021 (C) Apache TomEE Project, All Rights Reserved.
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.8
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20210831
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 04:40
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:58.389 INFORMAZIONI [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8
+13-Dec-2021 11:15:58.391 INFORMAZIONI [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@6e20b53a
+13-Dec-2021 11:15:58.394 INFORMAZIONI [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+13-Dec-2021 11:15:58.417 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\conf\tomee.xml'
+13-Dec-2021 11:15:58.438 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+13-Dec-2021 11:15:58.439 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+13-Dec-2021 11:15:58.440 INFORMAZIONI [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+13-Dec-2021 11:15:58.443 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+13-Dec-2021 11:15:58.499 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+13-Dec-2021 11:15:58.544 INFORMAZIONI [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+13-Dec-2021 11:15:58.636 INFORMAZIONI [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+13-Dec-2021 11:15:58.655 INFORMAZIONI [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+13-Dec-2021 11:15:58.655 INFORMAZIONI [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+13-Dec-2021 11:15:58.655 INFORMAZIONI [main] org.apache.openejb.server.SimpleServiceManager.start -------
+13-Dec-2021 11:15:58.655 INFORMAZIONI [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+13-Dec-2021 11:15:58.655 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [877] milliseconds
+13-Dec-2021 11:15:58.671 INFORMAZIONI [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+13-Dec-2021 11:15:58.671 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+13-Dec-2021 11:15:58.680 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+13-Dec-2021 11:15:58.680 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.52 (8.0.8)]
+13-Dec-2021 11:15:58.688 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs]
+13-Dec-2021 11:15:58.694 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /docs
+13-Dec-2021 11:15:58.815 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs
+13-Dec-2021 11:15:58.873 INFORMAZIONI [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs" loaded.
+13-Dec-2021 11:15:59.002 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs
+13-Dec-2021 11:15:59.116 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs)
+13-Dec-2021 11:15:59.332 INFORMAZIONI [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Dec-2021 11:15:59.414 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\docs] has finished in [726] ms
+13-Dec-2021 11:15:59.414 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager]
+13-Dec-2021 11:15:59.416 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /host-manager
+13-Dec-2021 11:15:59.454 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager
+13-Dec-2021 11:15:59.460 INFORMAZIONI [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager" loaded.
+13-Dec-2021 11:15:59.460 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager
+13-Dec-2021 11:15:59.466 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.deployWebApps using context file C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager\META-INF\context.xml
+13-Dec-2021 11:15:59.466 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager)
+13-Dec-2021 11:15:59.517 INFORMAZIONI [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Dec-2021 11:15:59.533 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\host-manager] has finished in [119] ms
+13-Dec-2021 11:15:59.533 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager]
+13-Dec-2021 11:15:59.534 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /manager
+13-Dec-2021 11:15:59.564 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager
+13-Dec-2021 11:15:59.569 INFORMAZIONI [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager" loaded.
+13-Dec-2021 11:15:59.569 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager
+13-Dec-2021 11:15:59.576 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.deployWebApps using context file C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager\META-INF\context.xml
+13-Dec-2021 11:15:59.576 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager)
+13-Dec-2021 11:15:59.629 INFORMAZIONI [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Dec-2021 11:15:59.640 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\manager] has finished in [107] ms
+13-Dec-2021 11:15:59.640 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT]
+13-Dec-2021 11:15:59.640 INFORMAZIONI [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+13-Dec-2021 11:15:59.667 INFORMAZIONI [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT
+13-Dec-2021 11:15:59.669 INFORMAZIONI [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT" loaded.
+13-Dec-2021 11:15:59.669 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT
+13-Dec-2021 11:15:59.676 INFORMAZIONI [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT)
+13-Dec-2021 11:15:59.718 INFORMAZIONI [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Dec-2021 11:15:59.730 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application directory [C:\Users\danyp\OneDrive\Desktop\progettoJavaEE\apache-tomee-plume-8.0.8\webapps\ROOT] has finished in [90] ms
+13-Dec-2021 11:15:59.733 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8080"]
+13-Dec-2021 11:15:59.749 INFORMAZIONI [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [1093] milliseconds
